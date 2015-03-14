@@ -1,0 +1,9 @@
+/*
+/*/
+!/.inc/
+!/.res/
+!/.gitattributes
+!/.gitignore
+!/TurboShell.au3
+!/LICENSE.txt
+!/README.md
